@@ -2,7 +2,7 @@
 Presentación del TP para la materia Seminario Intensivo de Tópicos Avanzados en Datos Complejos - Comisión: ECD.2022
 
 ## Objetivo 🎯
-Realizar un _pipeline_ de ML utilizando Spark. 
+Realizar un _pipeline_ de ML utilizando Python y Spark, que tendrá por objetivo obtener un modelo de clasificación. 
 
 ## Dataset 📄
 Con motivo de mantener el significado del dataset, lo escrito a continuación se mantendrá en su idioma original. 
