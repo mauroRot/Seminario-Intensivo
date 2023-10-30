@@ -5,7 +5,7 @@ Presentación del TP para la materia Seminario Intensivo de Tópicos Avanzados e
 Realizar un _pipeline_ de ML utilizando Spark. 
 
 ## Dataset 📄
-Con motivo de mantener el significado literal del dataset, lo escrito a continuación se mantendrá en su idioma original. 
+Con motivo de mantener el significado del dataset, lo escrito a continuación se mantendrá en su idioma original. 
 
 ### Context:
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.
@@ -22,7 +22,7 @@ This dataset contains information about employees in a company, including their 
 - **Leave or Not: a target column**
   
 ### Link:
-El dataset propiamente dicho, junto con la descripción del mismo (parte de ella colocada aquí), se encuentra accediendo a éste link 👉🏻 (https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset/data).
+El dataset propiamente dicho, junto con la descripción del mismo (parte de ella colocada aquí), se encuentra accediendo [a éste link](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset/data).
 
 ## Referencias 📚
 Para la confección de este trabajo, se han consultado las siguientes fuentes: 
