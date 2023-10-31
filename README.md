@@ -1,5 +1,4 @@
-# Seminario-Intensivo
-Presentación del TP para la materia Seminario Intensivo de Tópicos Avanzados en Datos Complejos - Comisión: ECD.2022
+# Seminario Intensivo de Tópicos Avanzados en Datos Complejos - Comisión: ECD.2022
 
 ## Objetivo 🎯
 Realizar un _pipeline_ de ML utilizando Python y Spark, que tendrá por objetivo obtener un modelo de clasificación que pueda predecir qué empleados (para una Empresa), dejan su trabajo o no. 
